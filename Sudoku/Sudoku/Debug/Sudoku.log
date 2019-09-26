@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  Sudoku.cpp
+E:\alsignupact110729\031702325\src\Sudoku\Sudoku.cpp(14,16): warning C4018:  “<”: 有符号/无符号不匹配
+E:\alsignupact110729\031702325\src\Sudoku\Sudoku.cpp(20,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+E:\alsignupact110729\031702325\src\Sudoku\Sudoku.cpp(80,20): warning C4018:  “<”: 有符号/无符号不匹配
+E:\alsignupact110729\031702325\src\Sudoku\Sudoku.cpp(91,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/PROFILE”规范)
+Sudoku.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:REF”规范)
+  Sudoku.vcxproj -> E:\alsignupact110729\031702325\src\Sudoku\Debug\Sudoku.exe
